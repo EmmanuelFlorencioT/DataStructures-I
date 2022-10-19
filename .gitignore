@@ -1,0 +1,3 @@
+# Exclude unreadable files
+*.o
+*.exe
